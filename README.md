@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ValeryShigaev
-- 🌱 I’m currently learning Python, Django ...
+👋 Hi, I’m @ValeryShigaev
+
+🌱 I’m permanently learning Python, Django etc. I am most interested in geo applications, but now I am interested in others on the web.
 
 
 <!---
