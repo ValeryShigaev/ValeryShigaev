@@ -7,6 +7,7 @@
 * 💬 You can contact me in [telegram](https://t.me/valeryshigaev)
 
 ***Skills***
+
 *![Python](https://cp82453.tmweb.ru/img/public/python_ic.png)
 <!---
 ValeryShigaev/ValeryShigaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
