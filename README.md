@@ -8,7 +8,7 @@
 
 ***Skills***
 
-<img src="https://cp82453.tmweb.ru/img/public/python_ic.png" alt="drawing" width="20"/>
+<img src="https://cp82453.tmweb.ru/img/public/python_ic.png" alt="drawing" width="20"/><img src="https://cp82453.tmweb.ru/img/public/c_ic.png" alt="drawing" width="20"/>
 <!---
 ValeryShigaev/ValeryShigaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
