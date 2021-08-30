@@ -6,8 +6,7 @@
 
 * 💬 You can contact me in [telegram](https://t.me/valeryshigaev)
 <br/><br/>
-<br/><br/>
-<br/><br/>  
+  
  ***Skills***
 
 <img src="https://cp82453.tmweb.ru/img/public/python_ic.png" alt="Python" width="20"/> <img src="https://cp82453.tmweb.ru/img/public/c_ic.png" alt="C#" width="20"/> 
