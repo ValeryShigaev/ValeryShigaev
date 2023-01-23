@@ -2,7 +2,7 @@
 
 
 
-* 🌱 I’m permanently learning Python, Django etc. I am most interested in geo applications, and sometimes web.
+* 🌱 My interests: geo apps and geo web apps (Python, Django e t.c.)
 
 * 💬 You can write me via [telegram](https://t.me/valeryshigaev)
 <br/><br/>
