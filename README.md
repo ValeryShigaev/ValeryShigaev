@@ -2,7 +2,7 @@
 
 
 
-* 🌱 My interests: geo apps and geo web apps (Python, Django e t.c.)
+* 🌱 My interests: geo apps and geo web apps (Python, GeoDjango e t.c.)
 
 * 💬 You can write me via [telegram](https://t.me/valeryshigaev)
 <br/><br/>
