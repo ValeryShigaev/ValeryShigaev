@@ -2,14 +2,12 @@
 
 
 
-* 🌱 My interests: geo apps and geo web apps (Python, GeoDjango e t.c.)
+* 🌱 My interests: geo apps and geo web apps
 
 * 💬 You can write me via [telegram](https://t.me/valeryshigaev)
 <br/><br/>
   
- ***Skills***
 
-Django,  DRF,  Celery,  Postgresql,  Docker,  Bash,  HTML,  CSS,  JS 
 <!---
 ValeryShigaev/ValeryShigaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
