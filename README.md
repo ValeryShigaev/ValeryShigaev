@@ -2,7 +2,7 @@
 
 
 
-* 🌱 My interests: geo apps and geo web apps
+* 🌱 My interests: gis and spatial data
 
 * 💬 You can write me via [telegram](https://t.me/valeryshigaev)
 <br/><br/>
